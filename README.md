@@ -2,6 +2,13 @@
 
 This is a angrier version of Facebook (social networking website) which we call it as Angrybook. MySQL is used to manage database systems, and the ER diagram is drawn for our database design. Then, all tables are normalized (lossless-join decomposition) to Boyce–Codd Normal Form (BCNF) to reduce data redundancy. The modified version of Bootstrap v3.3.2 is used for the front-end framework, and all pages are written in PHP.
 
+<p align="center">
+  <img src="doc/Angrybook%20Screenshots/Angrybook%20Login%20Page.png" title="LoginPage">
+  <img src="doc/Angrybook%20Screenshots/Angrybook%20Main%20Page.png" title="MainPage">
+  <img src="doc/Angrybook%20Screenshots/Angrybook%20Timeline%20Page.png" title="TimelinePage">
+  <img src="doc/Angrybook%20Screenshots/Angrybook%20View%20Friends%20Page.png" title="ViewFriendsPage">
+</p>
+
 ## Getting Started
 
 1. Please run Angrybook.sql on your local machine or server. All the login info to the database will automatically done. To run the script,
